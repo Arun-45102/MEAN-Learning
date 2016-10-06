@@ -84,4 +84,6 @@
 * [mean.js](http://meanjs.org/)
 * [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 * [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [Angular JS Tutorial](https://www.airpair.com/angularjs#8-directives-core-)
+* [JavaScript Recipes for MEAN stack](http://sahatyalkabov.com/jsrecipes/#!/)
 
