@@ -63,7 +63,11 @@
 * [MEAN Web Development](https://www.packtpub.com/web-development/mean-web-development)
 * [Getting MEAN with Mongo, Express, Angular, and Node](http://www.manning.com/sholmes/)
 * [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) 
-* [MEAN Machine - A beginner's practical guide to the JavaScript stack. By Scotch.io](https://leanpub.com/mean-machine) 
+* [MEAN Machine - A beginner's practical guide to the JavaScript stack. By Scotch.io](https://leanpub.com/mean-machine)
+* [MEAN Blueprints](https://www.packtpub.com/web-development/mean-blueprints)
+* [Write Modern Web Apps with MEAN Stack by Jeff Dickey](https://www.amazon.com/Write-Modern-Apps-MEAN-Stack/dp/0133930157)
+* [Pro MEAN Stack Development](http://www.apress.com/us/book/9781484220436)
+
 
 ## Slides
 
