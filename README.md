@@ -14,7 +14,7 @@
 * [Price Internationalization with the MEAN Stack](http://thecodebarbarian.wordpress.com/2013/12/02/price-internationalization-with-the-mean-stack/)
 * [The MEAN Stack: MongoDB, ExpressJS, AngularJS, and Node.js](http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
 * [Setting Up a MEAN Stack Single Page Application](http://scotch.io/bar-talk/setting-up-a-mean-stack-single-page-application)
-* [Node and Angular To-Do App](http://scotch.io/series/node-and-angular-to-do-app)
+* [Node and Angular To-Do App](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
 * [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
 * [A Sample App with Node.js, Express and MongoDB – Part 1](http://blog.ijasoneverett.com/2013/03/a-sample-app-with-node-js-express-and-mongodb-part-1/)
 * [A Sample App with Node.js, Express and MongoDB – Part 2](http://blog.ijasoneverett.com/2013/04/a-sample-app-with-node-js-express-and-mongodb-part-2/)
