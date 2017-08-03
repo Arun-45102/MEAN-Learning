@@ -50,7 +50,6 @@
 ## Courses
 
 * [The complete JavaScript developer: MEAN stack zero-to-hero](http://courses.fullstacktraining.com/courses/mean-stack-zero-to-hero)
-* [be MEAN](http://bemean.com.br/)
 * [Building AngularJS and Node.js Apps with the MEAN Stack](http://pluralsight.com/training/Courses/TableOfContents/building-angularjs-nodejs-apps-mean)
 * [Introdução ao MEAN-Stack](http://www.alura.com.br/cursos-online-front-end#mean)
 * [MEAN Stack Jump Start by Microsoft Virtual Academy](https://www.microsoftvirtualacademy.com/en-us/training-courses/mean-stack-jump-start-8442)
